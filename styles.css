@@ -71,10 +71,12 @@ header {
     color: #47525d;
 }
 .ib-body > p {
+    display: inline-block;
     margin: 30px auto;
     font-size: 20px;
     color: #47525d;
     width: 60%;
+    float: left;
 }
 /* Buttons */
 button {
